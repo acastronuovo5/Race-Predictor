@@ -1,0 +1,55 @@
+Rough Outine
+
+Goal: Create an AI program that predicts races from training aspects OR IMPROVE UPON OTHER RACE PREDICTORS
+(Mileage: maybe more mileage is better for longer races/more consistent is better/shorter distances work better off of lower milage, 
+Workout paces, sleep, anthropometric parameters)
+
+Basic Idea:
+- Get team Data and race performances
+- Train the algorithm with 1/2 or 2/3 of data 
+- Test the algorithm with the rest of the data
+- See how accurate the prediction is 
+
+~Use TensorFlow API or other microsoft API--> maybe query STRAVA????
+
+RESEARCH PROCESS:
+- INtroduction-
+    Find other algorithms that exist
+    Other research/Background on the topic (2-3 papers)
+    What is the problem???--------- (Other race predictors don't use training data, mostly use other races)
+    What is your motivation for this research?------ what do I think?
+    Brief results
+    
+ -Methodology-
+    Data: what data did you use, where is the data from? How I acquired it
+    Technology that i used--- tensorflow, maybe talk about AI training process
+    
+  -Data-
+     Tensorflow stuff?? 
+     What is the data??, Maybe make some sort of way to represent the data, which data was withheld and which was the test?
+     
+  -Results-
+      What did you find?
+      What data did the algorithm return? How does that compare to the actual results?
+      (Maybe need a statistical analysis??)
+      
+  -Conclusion-
+      Conclude with what your findings mean, how does it apply to real world, How does it benefit anyone?
+      
+      
+      
+AFTER PAPER IS WRITTEN:
+- learn HTML/CSS/Javascript maybe
+- create website to present my research, sort of like a resume
+     
+     
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
